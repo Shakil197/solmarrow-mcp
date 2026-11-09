@@ -1,4 +1,4 @@
-﻿---
+---
 name: solmarrow-social
 description: Draft, schedule and check social media posts across 19 networks through the SolMarrow MCP server. Use when the user wants to plan, write, schedule or review posts for X, LinkedIn, Facebook, Instagram, Threads, Bluesky, TikTok, YouTube, Pinterest, Telegram, Discord and more.
 ---

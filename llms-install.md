@@ -1,4 +1,4 @@
-﻿# SolMarrow MCP: install guide for AI agents
+# SolMarrow MCP: install guide for AI agents
 
 SolMarrow is a remote MCP server. There is nothing to clone, build or install locally, and no API key is needed.
 
