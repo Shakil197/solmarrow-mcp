@@ -4,7 +4,7 @@
 
 **Free AI agent social media posting.** Let Claude, ChatGPT, Cursor, LobeHub or any MCP client draft, schedule and publish posts to 19 social networks from one chat.
 
-- **Free posting:** the free plan has unlimited posts and unlimited accounts. No card needed.
+- **Free posting:** the free plan has unlimited posts. No card needed.
 - **Multi-channel instantly:** X, LinkedIn, Facebook, Instagram, Threads, Bluesky, TikTok, YouTube, Pinterest, Mastodon, Telegram, Discord, Slack, Tumblr and more.
 - **Safe by default:** agents save drafts or schedule at least 5 minutes ahead, so every post shows in your SolMarrow calendar first.
 
